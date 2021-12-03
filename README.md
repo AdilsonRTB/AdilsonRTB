@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋, I'm Adilson Monteiro
+#### I'm Full Stack Developer
+![I'm Full Stack Developer](https://github.com/AdilsonRTB/AdilsonRTB/blob/main/bannerAdy.png?raw=true)
 
-<!--
-**AdilsonRTB/AdilsonRTB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Here are some ideas to get you started:
+Skills: SPRING BOOT / ANGULAR / REACT / POSTGRESQL / JS / JAVA / TS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AdilsonRTB)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/adilsonrtb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adilson-f-monteiro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/adylson.monteyro)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilsonRTB)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdilsonRTB&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AdilsonRTB)  
+
+![GitHub metrics](https://metrics.lecoq.io/AdilsonRTB)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AdilsonRTB)  
+
+![Profile views](https://gpvc.arturio.dev/AdilsonRTB)  
