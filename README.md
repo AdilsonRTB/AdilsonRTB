@@ -2,7 +2,7 @@
 #### I'm Full Stack Developer
 ![I'm Full Stack Developer](https://github.com/AdilsonRTB/AdilsonRTB/blob/main/bannerAdy.png?raw=true)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
 
 Skills: SPRING BOOT / ANGULAR / REACT / POSTGRESQL / JS / JAVA / TS / HTML / CSS
 
