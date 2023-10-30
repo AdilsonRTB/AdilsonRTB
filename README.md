@@ -12,6 +12,8 @@ Skills: SPRING BOOT / ANGULAR / REACT / POSTGRESQL / JS / JAVA / TS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilsonRTB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilsonRTB&hide_progress=true)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdilsonRTB&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AdilsonRTB)  
@@ -21,3 +23,5 @@ Skills: SPRING BOOT / ANGULAR / REACT / POSTGRESQL / JS / JAVA / TS / HTML / CSS
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AdilsonRTB)  
 
 ![Profile views](https://gpvc.arturio.dev/AdilsonRTB)  
+
+
