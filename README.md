@@ -19,6 +19,8 @@ Based on my project activity, here’s a snapshot of the languages I've been usi
 - **SQL:** 10%
 
 *These stats are generated using GitHub's API to track the language distribution across commits.*
+### Top Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilsonRTB&layout=compact&theme=radical)
 
 ## 📈 GitHub Statistics
 
