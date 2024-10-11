@@ -19,7 +19,7 @@ I am a Fullstack Developer, Systems Analyst, and Consultant with a passion for b
 
 ## 📈 GitHub Statistics
 
-![Adilson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdilsonRTB&show_icons=true&count_private=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdilsonRTB&count_private=true&show_icons=true&theme=radical&include_all_commits=true&access_token=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)
 
 ## 💬 About Me
 
