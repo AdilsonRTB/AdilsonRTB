@@ -3,7 +3,7 @@
 I am a Fullstack Developer, Systems Analyst, and Consultant with a passion for building efficient, scalable, and user-friendly solutions. With a strong focus on both frontend and backend development, I leverage modern technologies to deliver comprehensive digital products.
 
 ## 🛠️ Technologies & Languages Used
-![Languages](https://img.shields.io/github/languages/top/AdilsonRTB/rialto-prod-api)
+![Languages](https://img.shields.io/github/languages/count/AdilsonRTB)
 
 - **Frontend:** React, Ant Design, Vaadin, Flutter
 - **Backend:** .NET Web API, SpringBoot
