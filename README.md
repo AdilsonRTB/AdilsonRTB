@@ -12,16 +12,14 @@ I am a Fullstack Developer, Systems Analyst, and Consultant with a passion for b
 
 ### Commits by Language
 
+![Commits by Language](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilsonRTB&layout=compact&theme=radical)
+
 ### Top Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilsonRTB&layout=compact&theme=radical)
 
 ## 📈 GitHub Statistics
 
 ![Adilson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdilsonRTB&show_icons=true&count_private=true&theme=radical)
-
-- **Total Commits:** 1000+
-- **Repositories:** 20+
-- **Languages Used:** JavaScript, TypeScript, C#, SQL, and more.
 
 ## 💬 About Me
 
