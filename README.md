@@ -11,14 +11,7 @@ I am a Fullstack Developer, Systems Analyst, and Consultant with a passion for b
 - **Others:** Docker, Kubernetes, RESTful APIs
 
 ### Commits by Language
-Based on my project activity, here’s a snapshot of the languages I've been using in my commits:
 
-- **JavaScript/TypeScript:** 40%
-- **C#/.NET:** 35%
-- **HTML/CSS:** 15%
-- **SQL:** 10%
-
-*These stats are generated using GitHub's API to track the language distribution across commits.*
 ### Top Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilsonRTB&layout=compact&theme=radical)
 
