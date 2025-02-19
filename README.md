@@ -9,7 +9,7 @@ I'm also skilled in architecture design and best practices, ensuring that projec
 ## 🛠️ Technologies & Languages Used
 
 - **Frontend:** React, Vaadin, Flutter
-**Backend Development:**
+## **Backend Development:**
 ![Static Badge](https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet)
 
