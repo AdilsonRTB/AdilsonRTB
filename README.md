@@ -9,8 +9,10 @@ I'm also skilled in architecture design and best practices, ensuring that projec
 ## 🛠️ Technologies & Languages Used
 
 - **Frontend:** React, Vaadin, Flutter
-- **Backend:** .NET Web API, SpringBoot, Java, C#
-- ![Static Badge](https://img.shields.io/badge/Springboot-grey?style=for-the-badge&logo=spring)
+- **Backend Development:**
+![Static Badge](https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring)
+![Static Badge](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet)
+
 
 - **Databases:** SQL, SQLServer, PostgreSQL
 - **Others:** Docker, Kubernetes, RESTful APIs
