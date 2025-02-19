@@ -12,7 +12,7 @@ I'm also skilled in architecture design and best practices, ensuring that projec
 ## **Backend Development:**
 ![Static Badge](https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet)
-![Static Badge]((https://img.shields.io/badge/json-black?style=for-the-badge&logo=json&logoColor=white))
+![Static Badge](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json&logoColor=white)
 
 
 - **Databases:** SQL, SQLServer, PostgreSQL
