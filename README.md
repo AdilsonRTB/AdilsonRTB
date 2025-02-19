@@ -10,7 +10,7 @@ I'm also skilled in architecture design and best practices, ensuring that projec
 
 - **Frontend:** React, Vaadin, Flutter
 - **Backend:** .NET Web API, SpringBoot, Java, C#
-![Static Badge](https://img.shields.io/badge/Springboot-grey?style=for-the-badge&logo=spring)
+- ![Static Badge](https://img.shields.io/badge/Springboot-grey?style=for-the-badge&logo=spring)
 
 - **Databases:** SQL, SQLServer, PostgreSQL
 - **Others:** Docker, Kubernetes, RESTful APIs
