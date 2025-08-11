@@ -27,11 +27,17 @@ Passionate about turning ideas into **scalable, secure, and efficient products**
 
 ---
 
+## 📌 Current Project / Area of Work
+**Production Management in Manufacturing Factories** – Developing integrated solutions to optimize industrial production workflows and data management.
+*Stack:* ASP .NET Core, SQLSERVER, RESTful API, VUE.
+
+---
+
 ## 🏆 Featured Projects
 
 - **SITRE – Foreign Residence Permit Information System**  
   Automated residence permit process, biometric integration, and MRZ generation.  
-  *Stack:* Spring Boot, PostgreSQL, REST/SOAP APIs.
+  *Stack:* Spring Boot, wso2, PostgreSQL, REST/SOAP APIs.
 
 - **SIGOIC – Police Incident Management System**  
   Full digitalization of police reports, digital signatures, and Justice System integration.  
@@ -68,6 +74,11 @@ Docker | Kubernetes | REST/SOAP | WSO2 | Agile/Scrum | Git | Linux
 
 ---
 
+## 🎯 Hobbies / Free Time
+- 🏀 Playing Basketball
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -77,17 +88,6 @@ Docker | Kubernetes | REST/SOAP | WSO2 | Agile/Scrum | Git | Linux
 ![GitHub Streak](https://streak-stats.demolab.com?user=AdilsonRTB&theme=tokyonight&hide_border=true)  
 
 </div>
-
----
-
-## 📌 Current Project / Area of Work
-**Production Management in Manufacturing Factories** – Developing integrated solutions to optimize industrial production workflows and data management.
-
----
-
-## 🎯 Hobbies / Free Time
-- 🏀 Playing Basketball
-
 ---
 
 ## 📬 Let's Connect
